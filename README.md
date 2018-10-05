@@ -1,1 +1,3 @@
-# ee362 quizzes and files
+# Overview
+EE361 & EE362 Homework & Quiz files
+(mostly EE362)
